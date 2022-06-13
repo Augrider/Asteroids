@@ -1,0 +1,17 @@
+{
+    "name": "Game.SceneLoader",
+    "rootNamespace": "",
+    "references": [
+        "GUID:c3ebdb20f6cab27469cb1d642eefe41c",
+        "GUID:e0ee5568dd62a0440a9c36c6c6914c8a"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9128416cf09b1e44d81880869df7d99b, type: 3}
+  m_Name: Asteroid Spawn Debris
+  m_EditorClassIdentifier: 
+  entityData: {fileID: 11400000, guid: 4231cfcd42adaaf49b368fb2a34d5bce, type: 2}
+  createEntityEvent: {fileID: 11400000, guid: de9c7dacb8f47c947a749cc0ef6c9c49, type: 2}
+  amount: 6

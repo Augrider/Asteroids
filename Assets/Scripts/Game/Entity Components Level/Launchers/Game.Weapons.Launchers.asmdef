@@ -1,0 +1,19 @@
+{
+    "name": "Game.Weapons.Launchers",
+    "rootNamespace": "",
+    "references": [
+        "GUID:4aa6608cc265767408ff605d83e0f19c",
+        "GUID:80d95f87f9be8394996377c29ddc4d80",
+        "GUID:08d581ad6021490468a510747f4a5da5",
+        "GUID:90e34df0a49ade3418bf7e150f67390c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

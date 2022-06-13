@@ -1,0 +1,20 @@
+{
+    "name": "Game.GameState",
+    "rootNamespace": "",
+    "references": [
+        "GUID:c7696b3a6d817de46a1ae4e7cfc18749",
+        "GUID:4aa6608cc265767408ff605d83e0f19c",
+        "GUID:90e34df0a49ade3418bf7e150f67390c",
+        "GUID:08d581ad6021490468a510747f4a5da5",
+        "GUID:5ed01b2450f221641b770af029cf280e"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

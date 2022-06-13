@@ -1,0 +1,24 @@
+{
+    "name": "Game.Controller.GameRules",
+    "rootNamespace": "",
+    "references": [
+        "GUID:e0ee5568dd62a0440a9c36c6c6914c8a",
+        "GUID:c7696b3a6d817de46a1ae4e7cfc18749",
+        "GUID:4aa6608cc265767408ff605d83e0f19c",
+        "GUID:90e34df0a49ade3418bf7e150f67390c",
+        "GUID:80d95f87f9be8394996377c29ddc4d80",
+        "GUID:fc8e5c4c8c472264db64fb0046be5574",
+        "GUID:8aa1e0148c61e3348a8c36e3433b3d96",
+        "GUID:c96d07daf8c1e2b4498cfe116245eb48",
+        "GUID:5ed01b2450f221641b770af029cf280e"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

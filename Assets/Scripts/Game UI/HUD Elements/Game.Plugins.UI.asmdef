@@ -1,0 +1,21 @@
+{
+    "name": "Game.Plugins.UI",
+    "rootNamespace": "",
+    "references": [
+        "GUID:5ed01b2450f221641b770af029cf280e",
+        "GUID:e3de1b22d2c5707429d05763b39a34e6",
+        "GUID:4aa6608cc265767408ff605d83e0f19c",
+        "GUID:08d581ad6021490468a510747f4a5da5",
+        "GUID:e0ee5568dd62a0440a9c36c6c6914c8a",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

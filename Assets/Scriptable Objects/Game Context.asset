@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78ba99abc3a2c294bb6dc307bde17281, type: 3}
+  m_Name: Game Context
+  m_EditorClassIdentifier: 
+  gameDifficulty: {fileID: 11400000, guid: e4ab4ba39a3131d42b1116bcdf897814, type: 2}
+  playerData: {fileID: 11400000, guid: 989842b9d4d0cea459e3ec0e1d9bd982, type: 2}

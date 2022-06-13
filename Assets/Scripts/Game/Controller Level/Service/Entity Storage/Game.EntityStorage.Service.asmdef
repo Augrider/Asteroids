@@ -1,0 +1,17 @@
+{
+    "name": "Game.EntityStorage.Service",
+    "rootNamespace": "",
+    "references": [
+        "GUID:c7696b3a6d817de46a1ae4e7cfc18749",
+        "GUID:90e34df0a49ade3418bf7e150f67390c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

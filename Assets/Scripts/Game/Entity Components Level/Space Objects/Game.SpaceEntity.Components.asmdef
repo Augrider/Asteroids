@@ -1,0 +1,20 @@
+{
+    "name": "Game.SpaceEntity.Components",
+    "rootNamespace": "",
+    "references": [
+        "GUID:4aa6608cc265767408ff605d83e0f19c",
+        "GUID:c7696b3a6d817de46a1ae4e7cfc18749",
+        "GUID:90e34df0a49ade3418bf7e150f67390c",
+        "GUID:5a8309757d4d84d46ab65898f42b55e0",
+        "GUID:80d95f87f9be8394996377c29ddc4d80"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

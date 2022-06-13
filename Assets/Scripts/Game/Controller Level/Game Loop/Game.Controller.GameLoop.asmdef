@@ -1,0 +1,22 @@
+{
+    "name": "Game.Controller.GameLoop",
+    "rootNamespace": "",
+    "references": [
+        "GUID:c7696b3a6d817de46a1ae4e7cfc18749",
+        "GUID:4aa6608cc265767408ff605d83e0f19c",
+        "GUID:0573aaf008a7bb4499b940cb998b4d9e",
+        "GUID:94154821473d8a94e84f6bb378d45e55",
+        "GUID:8aa1e0148c61e3348a8c36e3433b3d96",
+        "GUID:5ed01b2450f221641b770af029cf280e",
+        "GUID:08d581ad6021490468a510747f4a5da5"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

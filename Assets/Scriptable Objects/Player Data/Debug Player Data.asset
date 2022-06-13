@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 002ec37bc1ca39e42ac288bb3e2603c2, type: 3}
+  m_Name: Debug Player Data
+  m_EditorClassIdentifier: 
+  primary: {fileID: 11400000, guid: ce8254fbfd09e074caced05eded0f699, type: 2}
+  special: {fileID: 11400000, guid: f18bb565bacaf744faebfc3c3419206e, type: 2}
+  maxAcceleration: 600
+  maxRotationSpeed: 200
+  playerObjectData: {fileID: 11400000, guid: 4c43ebd0c08d78b469e48cca89f137c7, type: 2}

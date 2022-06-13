@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34cecd18bda7ffb4da0fd62c5aedccaf, type: 3}
+  m_Name: Bullet
+  m_EditorClassIdentifier: 
+  gameObjectPrefab: {fileID: 2615972453119718154, guid: 631c6b8a73087fa4b8e262920cab8cf9, type: 3}
+  entityType: 2
+  scoreValue: 0
+  startSpeed: 130
+  startRotationSpeed: 0
+  physicsData:
+    dragValue: 1
+    dragSpeedMultiplier: 0.3
+  behaviors:
+  - {fileID: 11400000, guid: f495b9721f2a6ba42ac963fa6bb867f3, type: 2}
+  - {fileID: 11400000, guid: 8b4151e2941aab540a1e385475ec024e, type: 2}
+  - {fileID: 11400000, guid: 33748f03946db6743859c6333a1e1c14, type: 2}
+  onDeath:
+  - {fileID: 11400000, guid: fe8392613bcc13547a12c6e3fa7a2ac0, type: 2}
+  pierce: 0

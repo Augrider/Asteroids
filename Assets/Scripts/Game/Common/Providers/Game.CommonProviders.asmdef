@@ -1,0 +1,16 @@
+{
+    "name": "Game.CommonProviders",
+    "rootNamespace": "",
+    "references": [
+        "GUID:4aa6608cc265767408ff605d83e0f19c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

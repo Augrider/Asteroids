@@ -1,0 +1,17 @@
+{
+    "name": "Game.UI.CharacterSelectionScreen",
+    "rootNamespace": "",
+    "references": [
+        "GUID:cee88892ee6403a41aa875e38005d074",
+        "GUID:fc8e5c4c8c472264db64fb0046be5574"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
